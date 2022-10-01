@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\NewFolder\" />
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
+
 </Project>

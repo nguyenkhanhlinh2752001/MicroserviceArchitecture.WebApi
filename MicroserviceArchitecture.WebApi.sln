@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroserviceArchitecture.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Models", "Microservices.Models\Microservices.Models.csproj", "{546245F8-8DDF-499C-9839-97E6E1B541A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{85A05756-EADF-4A83-BC31-F6F8F71BD72F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{546245F8-8DDF-499C-9839-97E6E1B541A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{546245F8-8DDF-499C-9839-97E6E1B541A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{546245F8-8DDF-499C-9839-97E6E1B541A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A05756-EADF-4A83-BC31-F6F8F71BD72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A05756-EADF-4A83-BC31-F6F8F71BD72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A05756-EADF-4A83-BC31-F6F8F71BD72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A05756-EADF-4A83-BC31-F6F8F71BD72F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
